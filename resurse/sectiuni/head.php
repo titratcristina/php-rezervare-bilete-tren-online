@@ -3,8 +3,6 @@
 <meta name="description" content="">
 <title>Festina lente</title>
 
-<link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/carousel/">
-
 <!-- Bootstrap core CSS -->
 <link rel="stylesheet" href="resurse/css/bootstrap.min.css">
 
